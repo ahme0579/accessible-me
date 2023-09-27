@@ -135,9 +135,6 @@ form button:focus{
   cursor: pointer;
   padding: 15px;
   border-radius: 4px;
-}
-
-.myBtn a{
   text-decoration: none;
   color: rgb(255, 255, 255);
 }
